@@ -1,4 +1,4 @@
-# 💫 About Me:
+
  Hi, I'm Pranathi 👋<br><br> B.Tech CSE (AI & Data Science) student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development.<br><br> I enjoy building AI-powered applications that solve real-world problems, from intelligent web platforms to automation tools.<br><br>Tech Stack:<br>- Python<br>- Machine Learning<br>- Generative AI<br>- FastAPI<br>- Flask<br>- HTML, CSS, JavaScript<br>- Git & GitHub<br><br>🌱 Currently learning:<br>- Advanced Machine Learning<br>- Large Language Models (LLMs)<br>- AI Agents<br>- Data Structures & Algorithms<br><br> Experience:<br>- Machine Learning Trainer<br>- AI Intern<br><br> Interests:<br>- AI for Social Impact<br>- Open Source<br>- Web Development<br>- Building Useful Products<br><br>📫 Let's connect and build something amazing!
 
 
